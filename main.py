@@ -48,7 +48,7 @@ def generate_with_gemini(prompt):
             print(f"Попытка {attempt + 1} через Gemini...")
             # Используем актуальную модель. Если будет ошибка 404, попробуй 'gemini-1.5-flash'
             response = client.models.generate_content(
-                model='gemini-1.5-flash', 
+                model='gemini-3.8-flash', 
                 contents=prompt,
             )
             return response.text
