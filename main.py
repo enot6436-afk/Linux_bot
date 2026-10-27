@@ -9,7 +9,7 @@ CHANNEL_ID = os.environ.get('CHANNEL_ID')
 GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY')
 
 genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel('gemini-1.5-flash')
+model = genai.GenerativeModel('gemini-2.5-flash')
 
 RSS_FEEDS = [
     "https://habr.com/ru/rss/hubs/linux/all/",
