@@ -72,9 +72,9 @@ def main():
     """
     
     try:
-        # Новый способ генерации текста
+        # ИСПОЛЬЗУЕМ АКТУАЛЬНУЮ МОДЕЛЬ 3.8
         response = client.models.generate_content(
-            model='gemini-2.5-flash',
+            model='gemini-3.8-flash',
             contents=prompt,
         )
         send_to_telegram(response.text)
