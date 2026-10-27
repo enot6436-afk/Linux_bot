@@ -1,6 +1,6 @@
 import feedparser
 import requests
-import google.generativeai as genai
+from google import genai
 import os
 import random
 
@@ -8,8 +8,8 @@ TELEGRAM_TOKEN = os.environ.get('TELEGRAM_TOKEN')
 CHANNEL_ID = os.environ.get('CHANNEL_ID')
 GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY')
 
-genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel('gemini-2.5-flash')
+# Инициализация нового клиента Google
+client = genai.Client(api_key=GEMINI_API_KEY)
 
 RSS_FEEDS = [
     "https://habr.com/ru/rss/hubs/linux/all/",
@@ -31,10 +31,11 @@ def send_to_telegram(text):
     payload = {
         "chat_id": CHANNEL_ID,
         "text": text,
-        "parse_mode": "Markdown",
+        "parse_mode": "HTML",
         "disable_web_page_preview": False
     }
-    requests.post(url, json=payload)
+    response = requests.post(url, json=payload)
+    print("ОТВЕТ ОТ ТЕЛЕГРАМА:", response.text)
 
 def main():
     history = get_history()
@@ -61,17 +62,21 @@ def main():
     
     ТРЕБОВАНИЯ:
     1. Объем: от 800 до 1500 символов.
-    2. Язык: СТРОГО РУССКИЙ. Никаких английских слов (кроме названий команд).
+    2. Язык: СТРОГО РУССКИЙ.
     3. Стиль: Дружелюбный, понятный, без занудства.
     4. Структура: Заголовок с эмодзи, суть, вывод.
     5. В конце добавь: "🔗 Подробнее: {found_article.link}"
-    6. Используй Markdown (жирный шрифт для важного).
+    6. Для выделения текста используй ТОЛЬКО HTML-теги <b>жирный</b>. Не используй звездочки (*).
     
     Пиши только готовый текст поста.
     """
     
     try:
-        response = model.generate_content(prompt)
+        # Новый способ генерации текста
+        response = client.models.generate_content(
+            model='gemini-2.5-flash',
+            contents=prompt,
+        )
         send_to_telegram(response.text)
         save_history(found_article.link)
         print("Успех!")
