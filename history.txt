@@ -14,3 +14,4 @@ https://www.opennet.ru/opennews/art.shtml?num=66563
 https://habr.com/ru/companies/otus/articles/1095728
 https://www.omgubuntu.co.uk/2026/10/ubuntu-2704-opens-for-development
 https://losst.pro/kak-ustanovit-docker-v-ubuntu-26-04
+https://www.phoronix.com/news/Linux-7.4-IOMMU
