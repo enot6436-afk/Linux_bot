@@ -2,7 +2,7 @@ name: Original posts
 
 on:
   schedule:
-    - cron: "30 3,7,11,15 * * *"
+    - cron: "0 4,12,20 * * *"
   workflow_dispatch:
 
 permissions:
