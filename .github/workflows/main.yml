@@ -2,7 +2,7 @@ name: AutoPoster Linux
 
 on:
   schedule:
-    - cron: '0 */4 * * *' # Запуск каждые 4 часа
+    - cron: '0 0,8,16 * * *' # Запуск каждые 4 часа
   workflow_dispatch:
 
 jobs:
