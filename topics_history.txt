@@ -5,3 +5,4 @@ Void Linux
 Zorin OS
 openSUSE
 Файловая система Linux: что лежит в /etc, /home, /var
+Шифрование диска LUKS: нужно ли новичку
