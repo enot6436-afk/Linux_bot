@@ -2,4 +2,5 @@ Nobara
 Tails
 Void Linux
 Zorin OS
+openSUSE
 Файловая система Linux: что лежит в /etc, /home, /var
