@@ -1,2 +1,3 @@
 Tails
+Zorin OS
 Файловая система Linux: что лежит в /etc, /home, /var
