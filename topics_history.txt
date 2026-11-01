@@ -4,5 +4,6 @@ Tails
 Void Linux
 Zorin OS
 openSUSE
+Поиск по истории команд через Ctrl+R
 Файловая система Linux: что лежит в /etc, /home, /var
 Шифрование диска LUKS: нужно ли новичку
