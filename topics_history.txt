@@ -1,5 +1,6 @@
 Linux Mint
 Nobara
+Rocky Linux
 Tails
 Void Linux
 Zorin OS
