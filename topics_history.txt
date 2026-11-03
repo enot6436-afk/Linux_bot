@@ -1,6 +1,7 @@
 Linux Mint
 Nobara
 Rocky Linux
+SSH для начинающих
 Tails
 Void Linux
 Zorin OS
