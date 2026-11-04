@@ -1,4 +1,5 @@
 Linux Mint
+Linux Mint или Ubuntu
 Nobara
 Rocky Linux
 SSH для начинающих
