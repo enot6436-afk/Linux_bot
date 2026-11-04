@@ -4,6 +4,7 @@ Nobara
 Rocky Linux
 SSH для начинающих
 Tails
+Ubuntu или Fedora
 Void Linux
 Zorin OS
 curl и wget: скачать файл из терминала
