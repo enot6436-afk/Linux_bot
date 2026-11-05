@@ -9,6 +9,7 @@ Tails
 Ubuntu или Fedora
 Void Linux
 Zorin OS
+alias: свои короткие команды
 curl и wget: скачать файл из терминала
 openSUSE
 Как обновлять систему и ничего не сломать
