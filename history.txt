@@ -33,3 +33,4 @@ https://www.linux.org.ru/news/opensource/18408771
 https://www.linux.org.ru/news/redhat/18413947
 https://habr.com/ru/articles/1104028
 https://www.omgubuntu.co.uk/2026/11/gimp-3-2-8-brings-bug-fixes-fixes-fixes
+https://www.linux.org.ru/news/proprietary/18414750
