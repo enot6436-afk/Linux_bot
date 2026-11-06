@@ -2,6 +2,7 @@ Garuda Linux
 Gentoo
 Linux Mint
 Linux Mint или Ubuntu
+Manjaro
 Nobara
 Rocky Linux
 SSH для начинающих
