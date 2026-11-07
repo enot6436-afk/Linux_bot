@@ -9,6 +9,7 @@ SSH для начинающих
 Tails
 Ubuntu или Fedora
 Void Linux
+X11 или Wayland
 Zorin OS
 alias: свои короткие команды
 curl и wget: скачать файл из терминала
