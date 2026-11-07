@@ -37,3 +37,4 @@ https://www.linux.org.ru/news/proprietary/18414750
 https://xakep.ru/2026/11/06/openai-linux
 https://www.phoronix.com/news/Linux-7.4-rc2-Sound
 https://losst.pro/ustanovka-i-nastrojka-brauzera-helium-v-linux
+https://feed.itsfoss.com/link/24361/17515859/mv-exchange
