@@ -6,6 +6,7 @@ Manjaro
 Nobara
 Rocky Linux
 SSH для начинающих
+SteamOS
 Tails
 Ubuntu или Fedora
 Void Linux
