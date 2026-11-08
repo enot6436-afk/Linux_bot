@@ -39,3 +39,4 @@ https://www.phoronix.com/news/Linux-7.4-rc2-Sound
 https://losst.pro/ustanovka-i-nastrojka-brauzera-helium-v-linux
 https://feed.itsfoss.com/link/24361/17515859/mv-exchange
 https://www.phoronix.com/news/Linux-7.4-rc2-FAT32
+https://feed.itsfoss.com/link/24361/17516378/passbolt-review
