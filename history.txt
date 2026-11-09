@@ -42,3 +42,4 @@ https://www.phoronix.com/news/Linux-7.4-rc2-FAT32
 https://feed.itsfoss.com/link/24361/17516378/passbolt-review
 https://www.opennet.ru/opennews/art.shtml?num=66640
 https://feed.itsfoss.com/link/24361/17514519/fedora-45-features
+https://feed.itsfoss.com/link/24361/17517784/domicile-desktop-overview
