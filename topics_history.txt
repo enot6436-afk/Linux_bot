@@ -1,5 +1,6 @@
 Garuda Linux
 Gentoo
+Kali или Parrot для обучения
 Linux Mint
 Linux Mint или Ubuntu
 Manjaro
