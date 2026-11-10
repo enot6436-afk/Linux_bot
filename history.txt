@@ -46,3 +46,4 @@ https://feed.itsfoss.com/link/24361/17517784/domicile-desktop-overview
 https://losst.pro/stiv-klabnik-kerol-nikols-yazyk-programmirovaniya-rust
 https://www.phoronix.com/news/Firefox-160-Released
 https://habr.com/ru/companies/timeweb/articles/1104718
+https://www.omgubuntu.co.uk/2026/11/ubuntu-fix-tcp-bug-criticism
