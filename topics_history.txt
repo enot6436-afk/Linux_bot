@@ -6,6 +6,7 @@ Linux Mint или Ubuntu
 Manjaro
 Nobara
 Rocky Linux
+Rolling release или стабильные релизы
 SSH для начинающих
 Slackware
 SteamOS
