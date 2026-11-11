@@ -4,6 +4,7 @@ Kali или Parrot для обучения
 Linux Mint
 Linux Mint или Ubuntu
 Manjaro
+NixOS
 Nobara
 Rocky Linux
 Rolling release или стабильные релизы
