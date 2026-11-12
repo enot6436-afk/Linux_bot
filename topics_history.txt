@@ -3,6 +3,7 @@ Gentoo
 Kali или Parrot для обучения
 Linux Mint
 Linux Mint или Ubuntu
+MX Linux
 Manjaro
 NixOS
 Nobara
