@@ -55,3 +55,4 @@ https://www.opennet.ru/opennews/art.shtml?num=66660
 https://www.omgubuntu.co.uk/2026/11/firefox-160-released-mini-window
 https://www.phoronix.com/news/NVIDIA-Upstream-vGPU-Nova
 https://www.phoronix.com/news/Intel-GCC-Coral-Rapids-Razor
+https://www.omgubuntu.co.uk/2026/11/mpv-4-20-released
