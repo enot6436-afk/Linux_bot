@@ -56,3 +56,4 @@ https://www.omgubuntu.co.uk/2026/11/firefox-160-released-mini-window
 https://www.phoronix.com/news/NVIDIA-Upstream-vGPU-Nova
 https://www.phoronix.com/news/Intel-GCC-Coral-Rapids-Razor
 https://www.omgubuntu.co.uk/2026/11/mpv-4-20-released
+https://habr.com/ru/companies/ruvds/articles/1104062
