@@ -58,3 +58,4 @@ https://www.phoronix.com/news/Intel-GCC-Coral-Rapids-Razor
 https://www.omgubuntu.co.uk/2026/11/mpv-4-20-released
 https://habr.com/ru/companies/ruvds/articles/1104062
 https://habr.com/ru/articles/1106522
+https://feed.itsfoss.com/link/24361/17521589/kora-ai-desktop-os-unveiled
