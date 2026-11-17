@@ -3,6 +3,7 @@ GNOME или KDE Plasma
 Garuda Linux
 Gentoo
 Kali или Parrot для обучения
+Kubuntu
 Linux Mint
 Linux Mint или Ubuntu
 MX Linux
