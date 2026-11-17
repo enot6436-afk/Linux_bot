@@ -63,3 +63,4 @@ https://feed.itsfoss.com/link/24361/17522825/foss-weekly-26-46
 https://www.opennet.ru/opennews/art.shtml?num=66692
 https://www.phoronix.com/news/GCC-Native-AArch64-Darwin-Patch
 https://habr.com/ru/articles/1107800
+https://www.opennet.ru/opennews/art.shtml?num=66700
