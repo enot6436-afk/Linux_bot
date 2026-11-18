@@ -64,3 +64,4 @@ https://www.opennet.ru/opennews/art.shtml?num=66692
 https://www.phoronix.com/news/GCC-Native-AArch64-Darwin-Patch
 https://habr.com/ru/articles/1107800
 https://www.opennet.ru/opennews/art.shtml?num=66700
+https://www.linux.org.ru/news/office/18423763
