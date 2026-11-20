@@ -69,3 +69,4 @@ https://www.opennet.ru/opennews/art.shtml?num=66711
 https://habr.com/ru/articles/1108020
 https://feed.itsfoss.com/link/24361/17524990/ziggity-git-client
 https://habr.com/ru/articles/1108666
+https://habr.com/ru/articles/1109174
