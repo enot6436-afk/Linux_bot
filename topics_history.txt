@@ -4,6 +4,7 @@ Flatpak или Snap
 GNOME или KDE Plasma
 Garuda Linux
 Gentoo
+Kali Linux
 Kali или Parrot для обучения
 Kubuntu
 Linux Mint
