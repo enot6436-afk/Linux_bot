@@ -71,3 +71,4 @@ https://feed.itsfoss.com/link/24361/17524990/ziggity-git-client
 https://habr.com/ru/articles/1108666
 https://habr.com/ru/articles/1109174
 https://www.opennet.ru/opennews/art.shtml?num=66693
+https://www.linux.org.ru/news/opensource/18421320
