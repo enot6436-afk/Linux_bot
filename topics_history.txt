@@ -1,5 +1,6 @@
 ALT Linux
 Arch или Manjaro
+Debian
 Flatpak или Snap
 GNOME или KDE Plasma
 Garuda Linux
