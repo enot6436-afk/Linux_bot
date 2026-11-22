@@ -73,3 +73,4 @@ https://habr.com/ru/articles/1109174
 https://www.opennet.ru/opennews/art.shtml?num=66693
 https://www.linux.org.ru/news/opensource/18421320
 https://www.omgubuntu.co.uk/2026/11/proton-lumo-ai-linux-desktop
+https://xakep.ru/2026/11/19/123456-all-over-again
