@@ -1,5 +1,6 @@
 ALT Linux
 Arch или Manjaro
+CachyOS
 Debian
 Flatpak или Snap
 GNOME или KDE Plasma
