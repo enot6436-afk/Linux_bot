@@ -75,3 +75,4 @@ https://www.linux.org.ru/news/opensource/18421320
 https://www.omgubuntu.co.uk/2026/11/proton-lumo-ai-linux-desktop
 https://xakep.ru/2026/11/19/123456-all-over-again
 https://www.omgubuntu.co.uk/2026/11/librem-5-risc-v-new-linux-phone
+https://habr.com/ru/articles/1109686
