@@ -4,6 +4,7 @@ CachyOS
 Debian
 Fedora Workstation
 Flatpak или Snap
+Flatpak, Snap и AppImage: в чём разница
 GNOME или KDE Plasma
 Garuda Linux
 Gentoo
