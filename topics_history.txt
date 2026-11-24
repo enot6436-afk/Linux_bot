@@ -2,6 +2,7 @@ ALT Linux
 Arch или Manjaro
 CachyOS
 Debian
+Fedora Workstation
 Flatpak или Snap
 GNOME или KDE Plasma
 Garuda Linux
