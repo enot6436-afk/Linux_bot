@@ -83,3 +83,4 @@ https://www.opennet.ru/opennews/art.shtml?num=66745
 https://www.opennet.ru/opennews/art.shtml?num=66762
 https://www.phoronix.com/news/Pop-OS-26.04-Released
 https://www.opennet.ru/opennews/art.shtml?num=66761
+https://feed.itsfoss.com/link/24361/17541208/linux-torvalds-scolds-ext4-maintainer
