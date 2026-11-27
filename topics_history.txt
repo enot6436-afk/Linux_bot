@@ -13,6 +13,7 @@ Kali или Parrot для обучения
 Kubuntu
 Linux Mint
 Linux Mint или Ubuntu
+Live-режим: попробовать Linux без установки
 MX Linux
 Manjaro
 NixOS
