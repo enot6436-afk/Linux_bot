@@ -1,5 +1,6 @@
 ALT Linux
 Arch или Manjaro
+Bazzite
 CachyOS
 Debian
 Fedora Workstation
